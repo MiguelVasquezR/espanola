@@ -1,6 +1,6 @@
 "use client";
 
-import { useRouter, useSearchParams } from "next/navigation";
+import { useParams, useRouter } from "next/navigation";
 import Image from "next/image";
 import { IoMdArrowRoundBack } from "react-icons/io";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -38,13 +38,13 @@ interface ITeam {
 
 const Index = () => {
   const router = useRouter();
-  const params = useSearchParams();
+  const params = useParams();
 
   const [information, setInformation] = useState<ITeam | null>();
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    const team = params.get("team");
+    const team = params.team || "1";
     switch (team) {
       case "1":
         setInformation(TeamOne);
@@ -124,13 +124,17 @@ const Index = () => {
             <p className="text-justify text-sm/6 px-5 text-[15px] text-[#18529D]">
               {information?.description}
               <br />
-              <p className="font-bold underline">Integrantes</p>
-              <ul className="pl-10">
-                {information?.team.map((name) => {
-                  return <li key={name}>{name.toUpperCase()}</li>;
-                })}
-              </ul>
             </p>
+            <div className="pl-10">
+              <p className="font-bold underline text-[#18529D]">Integrantes</p>
+              {information?.team.map((name) => {
+                return (
+                  <div className="text-[#18529D]" key={name}>
+                    {name.toUpperCase()}
+                  </div>
+                );
+              })}
+            </div>
           </div>
         </div>
 
