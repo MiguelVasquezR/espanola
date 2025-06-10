@@ -1,0 +1,17 @@
+{
+  "name": "Equipo Seis",
+  "description": "El equipo seis hizo una presentación en la cafetería de nombre CuboTres ubicada en el centro. En esta presentación se tuvo la presencia de ex estudiantes de la facultad de Letras Españolas, estudiantes que están estudiando y del Dr. ÁNGEL JOSÉ FERNÁNDEZ ARRIOLA",
+  "team": [
+    "KEVIN SAID ZORRILLA CONTRERAS",
+    "AIDEE CECILIA MARTINEZ MEDINA",
+    "WENDY SELENE MELCHOR HERNANDEZ"
+  ],
+  "links": [],
+  "images": [
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749593516/PHOTO-2025-06-10-16-11-12_mhs3pn.jpg"
+  ],
+  "autor": {
+    "name": "Antonio Machado",
+    "image": "https://res.cloudinary.com/di3ldc36w/image/upload/v1749586548/manchado_jzflop.jpg"
+  }
+}

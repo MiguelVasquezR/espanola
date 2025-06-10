@@ -1,0 +1,25 @@
+{
+  "name": "Equipo 4",
+  "description": "Se realizó una lectura de cuentos en el Hogar Infantil 'Gastón Melo' titulada 'Solo se necesita un árbol de oro para soñar'. Leímos el cuento de Ana María Matute 'El árbol de oro' a un grupo de niños de entre tres y cinco años y, posteriormente, realizamos una actividad donde los niños cubrieron de hojas con dibujos el tronco de un árbol de oro.",
+  "team": [
+    "José Adán Cobaxin Carvajal",
+    "Karol Esthela Cober Jiménez",
+    "Guadalupe Anael Córdoba García",
+    "Isidro Rivera Hernández"
+  ],
+  "links": [],
+  "images": [
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749587246/PHOTO-2025-06-10-14-20-58_ez0tdr.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749587245/PHOTO-2025-06-10-14-20-57_bgbdww.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749587245/PHOTO-2025-06-10-14-21-47_emzy5j.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749587244/WhatsApp_Image_2025-06-10_at_14.22.21_cgkneg.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749587244/PHOTO-2025-06-10-14-21-47_3_qurvia.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749587244/PHOTO-2025-06-10-14-21-47_2_s4uan1.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749587243/WhatsApp_Image_2025-06-10_at_14.22.54_jqvu0y.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749587243/WhatsApp_Image_2025-06-10_at_14.22.22_lxacle.jpg"
+  ],
+  "autor": {
+    "name": "Ana María Matute",
+    "image": "https://res.cloudinary.com/di3ldc36w/image/upload/v1749586548/matute_im257o.jpg"
+  }
+}

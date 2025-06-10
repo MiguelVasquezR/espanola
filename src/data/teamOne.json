@@ -1,0 +1,21 @@
+{
+  "name": "Equipo Uno",
+  "description": "Declamación de poemas con charla introductoria por parte del maestro José Luis Martínez Suárez. La presentación se hizo en una cafetería del centro, cerca del parque Juárez e inicio a las 5 de la tarde.",
+  "team": [
+    "Xanery Magally Landeros Mariano",
+    "Edson Carballo",
+    "Ariadne Hernández"
+  ],
+  "links": [],
+  "images": [
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749587925/PHOTO-2025-05-06-12-28-11_y5ri1k.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749588005/PHOTO-2025-06-09-20-47-26_2_dj6ioe.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749588005/PHOTO-2025-06-09-20-47-26_s416dy.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749588005/PHOTO-2025-06-09-20-48-36_2_uqdlc3.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749588004/PHOTO-2025-06-09-20-48-36_ptc62q.jpg"
+  ],
+  "autor": {
+    "name": "Generación del 27",
+    "image": "https://res.cloudinary.com/di3ldc36w/image/upload/v1749586548/generacion27_ths0w4.jpg"
+  }
+}

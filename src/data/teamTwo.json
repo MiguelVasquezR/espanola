@@ -1,0 +1,22 @@
+{
+  "name": "Equipo Dos",
+  "description": "Se hizo contacto con un programa de radio y la Casa de doña Falla a través de conocidos ahí por parte de 2 integrantes del equipo para la invitación del evento y contexto de la autora, se diseñaron carteles de manera colectiva para su impresión y distribución en diferentes lugares, así como la difusión de los mismos en el foro de la facultad. En el evento se dio contexto de quién era Matute, se seleccionaron cuentos individuales para su lectura, mientras esto se hacía los asistentes dibujaron lo que se imaginaban con hojas y crayolas que se repartieron, el equipo respondió dudas sobre los mismos cuentos y opinión de los mismos, se leyó un fragmento de la novela Olvidado rey Gudú de manera grupal, se finalizó el evento agradeciendo la asistencia.",
+  "team": [
+    "Alicia Bautista Vega",
+    "Isi Benigbé Castillo Carballo",
+    "Daniel Marinero Castrejón",
+    "Carlos Eduardo Tlapa Cerecedo"
+  ],
+  "links": [
+    "https://soundcloud.com/radiomasrtv/el-show-de-la-tierra-encuentro-de-las-ciencias-de-la-tierra-y-el-mar?fbclid=IwZXh0bgNhZW0CMTEAAR7zuDehCdY2OVeTLi0HIQ4l8F21dwWPknA0AmPp3-oMVPu7EpV7gWPfFFrzKw_aem_5t6Mow1nUbr_1kHxNUDZtw"
+  ],
+  "images": [
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749586235/PHOTO-2025-06-08-17-51-30_2_uq92rj.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749586234/PHOTO-2025-06-08-17-51-30_vkqqfw.jpg",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749586234/PHOTO-2025-06-08-17-51-31_vsxv3k.jpg"
+  ],
+  "autor": {
+    "name": "Ana María Matute",
+    "image": "https://res.cloudinary.com/di3ldc36w/image/upload/v1749586548/matute_im257o.jpg"
+  }
+}
