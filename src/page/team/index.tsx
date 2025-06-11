@@ -1,6 +1,6 @@
 "use client";
 
-import { useParams, useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import Image from "next/image";
 import { IoMdArrowRoundBack } from "react-icons/io";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -15,6 +15,7 @@ import TeamThree from "@/data/teamThree.json";
 import TeamFour from "@/data/teamFour.json";
 import TeamFive from "@/data/teamFive.json";
 import TeamSix from "@/data/teamSix.json";
+import TeamSeven from "@/data/teamSeven.json";
 import { useEffect, useState } from "react";
 
 import {
@@ -38,13 +39,14 @@ interface ITeam {
 
 const Index = () => {
   const router = useRouter();
-  const params = useParams();
+  const params = useSearchParams();
 
   const [information, setInformation] = useState<ITeam | null>();
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    const team = params.team || "1";
+    const team = params.get("team") || "1";
+
     switch (team) {
       case "1":
         setInformation(TeamOne);
@@ -68,6 +70,10 @@ const Index = () => {
         break;
       case "6":
         setInformation(TeamSix);
+        setIsLoading(false);
+        break;
+      case "7":
+        setInformation(TeamSeven);
         setIsLoading(false);
         break;
       default:
@@ -95,7 +101,7 @@ const Index = () => {
       <div className="bg-white w-[90%] lg:w-[80%]  rounded-md ">
         <div className="lg:flex lg:flex-row lg:justify-between lg:items-center w-full">
           <div className="lg:w-1/2">
-            <p className="font-bold text-[28px] text-center py-2 text-[#18529D]">
+            <p className="font-bold text-[20px] text-center py-2 text-[#18529D]">
               {information?.name || ""}
             </p>
 
@@ -148,7 +154,7 @@ const Index = () => {
               <div className="p-2 rounded-md">
                 <Swiper
                   slidesPerView={1}
-                  navigation={true}
+                  /* navigation={true} */
                   autoplay={{
                     delay: 2000,
                     disableOnInteraction: false,

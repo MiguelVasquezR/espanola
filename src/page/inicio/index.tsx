@@ -233,6 +233,29 @@ const Index = () => {
               </div>
             </div>
 
+            <div className="flex flex-col justify-center items-center bg-white p-4 rounded-md shadow-md text-black">
+              <p className="font-bold text-[15px]">Equipo 7</p>
+              <br />
+              <Image
+                src={
+                  "https://res.cloudinary.com/di3ldc36w/image/upload/v1749586548/matute_im257o.jpg"
+                }
+                width={200}
+                height={200}
+                alt=""
+                objectFit="fill"
+              />
+              <br />
+              <div
+                className="border-[#18529D] text-[#18529D] rounded-md bg-transparent border-[1px] border-solid px-3 py-3"
+                onClick={() => {
+                  router.push("/team?team=7");
+                }}
+              >
+                Ver más
+              </div>
+            </div>
+
             <br />
           </div>
         </div>

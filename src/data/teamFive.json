@@ -1,7 +1,13 @@
 {
-  "name": "Equipo 5",
+  "name": "Fanzine de Antonio Machado",
   "description": "El equipo número cinco hizo una página en la red social de Instagram. Actualmente cuenta con 69 seguidores. Una de las formas en la que hicieron propagando fue por medio de mini folletos (2,000 aprox.) en diferentes ciudades del estado de Veracruz",
-  "team": [],
+  "team": [
+    "Melanie Aburto Andrade",
+    "Karla Anayelsi Camarillo Gómez",
+    "Nailea Guadalupe Hernández Contreras",
+    "Celeste Eunice López Rosas",
+    "Ximena Ramírez Zamora"
+  ],
   "links": ["https://www.instagram.com/_antoniomachadoruiz_/"],
   "images": [
     "https://res.cloudinary.com/di3ldc36w/image/upload/v1749594171/WhatsApp_Image_2025-06-10_at_16.21.18_mqg8we.jpg",

@@ -1,0 +1,22 @@
+{
+  "name": " Homenaje a Matute. Programa en Radio UV en la sección “Muchas más voces universitarias”",
+  "description": "Este equipo hizo un programa de Radio UV para promocionar y hacerle homenaje a la escritora Ana María Matute",
+  "team": [
+    "Nahomi Alejo García",
+    "Alondra Carrizo Pozos",
+    "Tamara Espinoza Hernández",
+    "Dulce Angélica Salazar Rodríguez",
+    "Luz Angélica Velasco Medina"
+  ],
+  "links": [
+    "https://open.spotify.com/episode/5ClO7Ji9kYunaX7lZAGlNl?si=r6T1OSXpRIu3aBNQocPzQQ"
+  ],
+  "images": [
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749612015/Captura_de_pantalla_2025-06-10_a_la_s_9.20.04_p.m._zhlshq.png",
+    "https://res.cloudinary.com/di3ldc36w/image/upload/v1749612073/Captura_de_pantalla_2025-06-10_a_la_s_9.20.59_p.m._quucjd.png"
+  ],
+  "autor": {
+    "name": "Ana María Matute",
+    "image": "https://res.cloudinary.com/di3ldc36w/image/upload/v1749586548/matute_im257o.jpg"
+  }
+}
