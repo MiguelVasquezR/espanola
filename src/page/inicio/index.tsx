@@ -20,7 +20,7 @@ const Index = () => {
             <Image src={Letras.src} width={200} height={200} alt="" />
             <br />
             <p className="text-[28px] text-center px-2 font-bold">
-              Litaratura Española Moderna y Contemporanea
+              Literatura española del romanticismo al siglo XXI
             </p>
             <br />
             <p className="">Dra. Nidia Magdalena Vincent Ortega</p>
