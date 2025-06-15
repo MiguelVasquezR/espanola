@@ -30,7 +30,7 @@ const Index = () => {
           </div>
 
           <div className="flex flex-col justify-center items-center lg:w-[75%]">
-            <p className="text-[28px] font-bold py-5">Objectivo</p>
+            <p className="text-[28px] font-bold py-5">Objetivo</p>
             <p className="p-5 text-justify text-sm/8 text-[15px]">
               Este semestre, el grupo de Literatura Española realizó actividades
               de difusión cultural con el objetivo de dar a conocer, más allá
